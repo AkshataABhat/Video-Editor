@@ -24,3 +24,6 @@ Also, include an audio file.
 5. Colour
 6. Trim
 7. Audio
+
+
+You can create a pull request to add any functionalities.
